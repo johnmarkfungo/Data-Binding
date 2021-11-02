@@ -38,6 +38,7 @@ img {
     width: 40%;
     margin-top: 20px;
     border-radius: 5px;
+    object-fit: cover;
 }
 input {
     width: 50%;
